@@ -1,3 +1,0 @@
-a new file
-another new line added
-in vi mode a new file showing like .file12.txt.swp
